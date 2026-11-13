@@ -32,8 +32,8 @@
             this.label_Info1Form2 = new System.Windows.Forms.Label();
             this.label_email = new System.Windows.Forms.Label();
             this.label_password = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.textBox_email2 = new System.Windows.Forms.TextBox();
+            this.textBox_password2 = new System.Windows.Forms.TextBox();
             this.button_criar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -77,19 +77,19 @@
             this.label_password.TabIndex = 6;
             this.label_password.Text = "Senha:";
             // 
-            // textBox1
+            // textBox_email2
             // 
-            this.textBox1.Location = new System.Drawing.Point(322, 165);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(188, 20);
-            this.textBox1.TabIndex = 7;
+            this.textBox_email2.Location = new System.Drawing.Point(322, 165);
+            this.textBox_email2.Name = "textBox_email2";
+            this.textBox_email2.Size = new System.Drawing.Size(188, 20);
+            this.textBox_email2.TabIndex = 7;
             // 
-            // textBox2
+            // textBox_password2
             // 
-            this.textBox2.Location = new System.Drawing.Point(322, 215);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(188, 20);
-            this.textBox2.TabIndex = 8;
+            this.textBox_password2.Location = new System.Drawing.Point(322, 215);
+            this.textBox_password2.Name = "textBox_password2";
+            this.textBox_password2.Size = new System.Drawing.Size(188, 20);
+            this.textBox_password2.TabIndex = 8;
             // 
             // button_criar
             // 
@@ -99,6 +99,7 @@
             this.button_criar.TabIndex = 9;
             this.button_criar.Text = "Criar ";
             this.button_criar.UseVisualStyleBackColor = true;
+            this.button_criar.Click += new System.EventHandler(this.button_criar_Click);
             // 
             // CriarConta
             // 
@@ -107,8 +108,8 @@
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.button_criar);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.textBox_password2);
+            this.Controls.Add(this.textBox_email2);
             this.Controls.Add(this.label_password);
             this.Controls.Add(this.label_email);
             this.Controls.Add(this.label_Info1Form2);
@@ -126,8 +127,8 @@
         private System.Windows.Forms.Label label_Info1Form2;
         private System.Windows.Forms.Label label_email;
         private System.Windows.Forms.Label label_password;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox textBox_email2;
+        private System.Windows.Forms.TextBox textBox_password2;
         private System.Windows.Forms.Button button_criar;
     }
 }

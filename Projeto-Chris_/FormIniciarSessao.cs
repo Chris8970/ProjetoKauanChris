@@ -22,7 +22,7 @@ namespace Projeto_Chris_
             this.Hide();
             FormContaIniciar form_ir = new FormContaIniciar();
             form_ir.ShowDialog();
-            this.Close();
+            this.Show();
         }
 
         private void FormTelaDeContas_Load(object sender, EventArgs e)
@@ -35,7 +35,7 @@ namespace Projeto_Chris_
             this.Hide();
             CriarConta form_ir = new CriarConta();
             form_ir.ShowDialog();
-            this.Close();
+            this.Show();
         }
     }
 }

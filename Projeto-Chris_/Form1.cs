@@ -27,7 +27,7 @@ namespace Projeto_Chris_
             this.Hide();
             FormTelaDeContas form_ir = new FormTelaDeContas();
             form_ir.ShowDialog();
-            this.Close();
+            this.Show();
         }
     }
 }
