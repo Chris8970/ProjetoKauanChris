@@ -63,6 +63,16 @@ namespace Projeto_Chris_.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _6a398e2bffd61024b7fa8c6eaf6a4e62 {
+            get {
+                object obj = ResourceManager.GetObject("6a398e2bffd61024b7fa8c6eaf6a4e62", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap bola3 {
             get {
                 object obj = ResourceManager.GetObject("bola3", resourceCulture);
@@ -76,6 +86,16 @@ namespace Projeto_Chris_.Properties {
         internal static System.Drawing.Bitmap paragem_de_autocarro {
             get {
                 object obj = ResourceManager.GetObject("paragem de autocarro", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap png_transparent_computer_icons_profile_s_free_angle_sphere_profile_cliparts_free {
+            get {
+                object obj = ResourceManager.GetObject("png-transparent-computer-icons-profile-s-free-angle-sphere-profile-cliparts-free", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

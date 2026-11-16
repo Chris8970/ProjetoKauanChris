@@ -15,6 +15,13 @@ namespace Projeto_Chris_
         public PagPrincipal()
         {
             InitializeComponent();
+            
         }
+
+        private void PagPrincipal_Load(object sender, EventArgs e)
+        {
+            label_nomeUt.Text = Globais.emails;
+        }
+        
     }
 }

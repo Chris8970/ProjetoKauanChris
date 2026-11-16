@@ -26,3 +26,4 @@ C:\Users\127355\source\repos\Projeto-ChrisKauan\Projeto-Chris_\obj\Debug\Projeto
 C:\Users\127355\source\repos\Projeto-ChrisKauan\Projeto-Chris_\obj\Debug\Projeto-Chris_.csproj.CoreCompileInputs.cache
 C:\Users\127355\source\repos\Projeto-ChrisKauan\Projeto-Chris_\obj\Debug\Projeto-Chris_.exe
 C:\Users\127355\source\repos\Projeto-ChrisKauan\Projeto-Chris_\obj\Debug\Projeto-Chris_.pdb
+C:\Users\127355\source\repos\Projeto-ChrisKauan\Projeto-Chris_\obj\Debug\Projeto_Chris_.PagPrincipal.resources

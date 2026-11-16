@@ -93,6 +93,9 @@
     <EmbeddedResource Include="FormIniciarSessao.resx">
       <DependentUpon>FormIniciarSessao.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="PagPrincipal.resx">
+      <DependentUpon>PagPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -121,6 +124,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\paragem de autocarro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6a398e2bffd61024b7fa8c6eaf6a4e62.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-transparent-computer-icons-profile-s-free-angle-sphere-profile-cliparts-free.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
