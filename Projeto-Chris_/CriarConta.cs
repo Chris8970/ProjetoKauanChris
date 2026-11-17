@@ -67,5 +67,17 @@ namespace Projeto_Chris_
             form_ir.ShowDialog();
             this.Show();
         }
+
+        private void CriarConta_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label_password_Click(object sender, EventArgs e)
+        {
+
+        }
+
+      
     }
 }

@@ -34,9 +34,10 @@
             // 
             // button_entrar
             // 
-            this.button_entrar.Location = new System.Drawing.Point(272, 293);
+            this.button_entrar.Location = new System.Drawing.Point(380, 241);
+            this.button_entrar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button_entrar.Name = "button_entrar";
-            this.button_entrar.Size = new System.Drawing.Size(225, 53);
+            this.button_entrar.Size = new System.Drawing.Size(300, 65);
             this.button_entrar.TabIndex = 0;
             this.button_entrar.Text = "Entrar";
             this.button_entrar.UseVisualStyleBackColor = true;
@@ -44,12 +45,13 @@
             // 
             // Form_Inicio
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.BackColor = System.Drawing.Color.SeaGreen;
+            this.ClientSize = new System.Drawing.Size(1067, 554);
             this.Controls.Add(this.button_entrar);
             this.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form_Inicio";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form_Inicio_Load);
