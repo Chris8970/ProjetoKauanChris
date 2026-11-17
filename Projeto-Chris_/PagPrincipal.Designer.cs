@@ -47,7 +47,7 @@
             // label_tituloPagPrincipal
             // 
             this.label_tituloPagPrincipal.AutoSize = true;
-            this.label_tituloPagPrincipal.BackColor = System.Drawing.SystemColors.InactiveBorder;
+            this.label_tituloPagPrincipal.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.label_tituloPagPrincipal.Font = new System.Drawing.Font("Microsoft YaHei UI", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label_tituloPagPrincipal.Location = new System.Drawing.Point(36, 28);
             this.label_tituloPagPrincipal.Name = "label_tituloPagPrincipal";
@@ -57,12 +57,13 @@
             // 
             // button_horarios
             // 
+            this.button_horarios.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.button_horarios.Location = new System.Drawing.Point(12, 103);
             this.button_horarios.Name = "button_horarios";
             this.button_horarios.Size = new System.Drawing.Size(173, 46);
             this.button_horarios.TabIndex = 1;
             this.button_horarios.Text = "Hórarios ";
-            this.button_horarios.UseVisualStyleBackColor = true;
+            this.button_horarios.UseVisualStyleBackColor = false;
             // 
             // MenuPrincipal
             // 
@@ -99,6 +100,7 @@
             this.button1.TabIndex = 7;
             this.button1.Text = "Definições";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button_sair
             // 
@@ -108,14 +110,15 @@
             this.button_sair.TabIndex = 8;
             this.button_sair.Text = "Sair";
             this.button_sair.UseVisualStyleBackColor = true;
+            this.button_sair.Click += new System.EventHandler(this.button_sair_Click);
             // 
             // pictureBox1
             // 
             this.pictureBox1.BackgroundImage = global::Projeto_Chris_.Properties.Resources.png_transparent_computer_icons_profile_s_free_angle_sphere_profile_cliparts_free;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pictureBox1.Location = new System.Drawing.Point(706, 12);
+            this.pictureBox1.Location = new System.Drawing.Point(678, 12);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(71, 64);
+            this.pictureBox1.Size = new System.Drawing.Size(64, 45);
             this.pictureBox1.TabIndex = 9;
             this.pictureBox1.TabStop = false;
             // 
@@ -123,7 +126,7 @@
             // 
             this.label_1.AutoSize = true;
             this.label_1.Font = new System.Drawing.Font("Microsoft YaHei UI", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label_1.Location = new System.Drawing.Point(215, 28);
+            this.label_1.Location = new System.Drawing.Point(212, 9);
             this.label_1.Name = "label_1";
             this.label_1.Size = new System.Drawing.Size(286, 38);
             this.label_1.TabIndex = 10;
@@ -133,32 +136,32 @@
             // 
             this.AsMinhasParagens.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.AsMinhasParagens.FormattingEnabled = true;
-            this.AsMinhasParagens.Location = new System.Drawing.Point(219, 112);
+            this.AsMinhasParagens.Location = new System.Drawing.Point(208, 71);
             this.AsMinhasParagens.Name = "AsMinhasParagens";
-            this.AsMinhasParagens.Size = new System.Drawing.Size(510, 121);
+            this.AsMinhasParagens.Size = new System.Drawing.Size(534, 121);
             this.AsMinhasParagens.TabIndex = 11;
             // 
             // ParagensFavoritas
             // 
             this.ParagensFavoritas.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ParagensFavoritas.FormattingEnabled = true;
-            this.ParagensFavoritas.Location = new System.Drawing.Point(219, 271);
+            this.ParagensFavoritas.Location = new System.Drawing.Point(208, 220);
             this.ParagensFavoritas.Name = "ParagensFavoritas";
-            this.ParagensFavoritas.Size = new System.Drawing.Size(282, 134);
+            this.ParagensFavoritas.Size = new System.Drawing.Size(282, 199);
             this.ParagensFavoritas.TabIndex = 12;
             // 
             // InformaçõesRápidas
             // 
             this.InformaçõesRápidas.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.InformaçõesRápidas.FormattingEnabled = true;
-            this.InformaçõesRápidas.Location = new System.Drawing.Point(527, 271);
+            this.InformaçõesRápidas.Location = new System.Drawing.Point(511, 220);
             this.InformaçõesRápidas.Name = "InformaçõesRápidas";
-            this.InformaçõesRápidas.Size = new System.Drawing.Size(202, 134);
+            this.InformaçõesRápidas.Size = new System.Drawing.Size(231, 199);
             this.InformaçõesRápidas.TabIndex = 13;
             // 
             // button_verparagens
             // 
-            this.button_verparagens.Location = new System.Drawing.Point(629, 112);
+            this.button_verparagens.Location = new System.Drawing.Point(628, 159);
             this.button_verparagens.Name = "button_verparagens";
             this.button_verparagens.Size = new System.Drawing.Size(100, 23);
             this.button_verparagens.TabIndex = 14;

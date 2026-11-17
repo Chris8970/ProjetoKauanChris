@@ -34,7 +34,7 @@
             // 
             // button_entrar
             // 
-            this.button_entrar.Location = new System.Drawing.Point(272, 293);
+            this.button_entrar.Location = new System.Drawing.Point(261, 302);
             this.button_entrar.Name = "button_entrar";
             this.button_entrar.Size = new System.Drawing.Size(225, 53);
             this.button_entrar.TabIndex = 0;

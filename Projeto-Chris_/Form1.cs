@@ -29,5 +29,10 @@ namespace Projeto_Chris_
             form_ir.ShowDialog();
             this.Show();
         }
+
+        private void button_entrarDev_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

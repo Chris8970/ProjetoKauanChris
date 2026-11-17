@@ -27,7 +27,6 @@ namespace Projeto_Chris_
 
         private void button_criar_Click(object sender, EventArgs e)
         {
-            bool ContaCriada = false;
             Globais.Utilizador NovoUt;
             NovoUt.email = textBox_email2.Text;
             NovoUt.palavraPasse = textBox_password2.Text;
@@ -61,7 +60,7 @@ namespace Projeto_Chris_
 
             Globais.emails = textBox_email2.Text;
             Globais.passwords = textBox_password2.Text;
-
+            Globais.ver = true;
             this.Hide();
             FormTelaDeContas form_ir = new FormTelaDeContas();
             form_ir.ShowDialog();

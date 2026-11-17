@@ -20,8 +20,21 @@ namespace Projeto_Chris_
 
         private void PagPrincipal_Load(object sender, EventArgs e)
         {
-            label_nomeUt.Text = Globais.emails;
+           
         }
-        
+
+        private void button_sair_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Obrigado, volte sempre!");
+            Application.Exit();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            FormDefinicoes form_ir = new FormDefinicoes();
+            form_ir.ShowDialog();
+            this.Show();
+        }
     }
 }
