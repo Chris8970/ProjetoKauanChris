@@ -3,7 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\projeto-chris_\\formcontainiciar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\projeto-chris_\\globais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|solutionrelative:projeto-chris_\\globais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\projeto-chris_\\pagprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|solutionrelative:projeto-chris_\\pagprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\projeto-chris_\\forminiciarsessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|solutionrelative:projeto-chris_\\forminiciarsessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\projeto-chris_\\forminiciarsessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|solutionrelative:projeto-chris_\\forminiciarsessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\projeto-chris_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|solutionrelative:projeto-chris_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\projeto-chris_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|solutionrelative:projeto-chris_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|c:\\users\\127355\\source\\repos\\projeto-chriskauan\\projeto-chris_\\formcontainiciar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|solutionrelative:projeto-chris_\\formcontainiciar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,22 +43,6 @@
       "RelativeMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|solutionrelative:projeto-chris_\\formcontainiciar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\projeto-chris_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|solutionrelative:projeto-chris_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\projeto-chris_\\forminiciarsessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|solutionrelative:projeto-chris_\\forminiciarsessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\projeto-chris_\\forminiciarsessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|solutionrelative:projeto-chris_\\forminiciarsessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\projeto-chris_\\globais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|solutionrelative:projeto-chris_\\globais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\projeto-chris_\\validacaocamposvaziosexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|solutionrelative:projeto-chris_\\validacaocamposvaziosexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,24 +51,16 @@
       "RelativeMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|solutionrelative:projeto-chris_\\validacaoemailexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|c:\\users\\127355\\source\\repos\\projeto-chriskauan\\projeto-chris_\\pagprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|solutionrelative:projeto-chris_\\pagprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\projeto-chris_\\pagprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|solutionrelative:projeto-chris_\\pagprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|c:\\users\\127355\\source\\repos\\projeto-chriskauan\\projeto-chris_\\formdefinicoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\projeto-chris_\\formdefinicoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|solutionrelative:projeto-chris_\\formdefinicoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|c:\\users\\127355\\source\\repos\\projeto-chriskauan\\projeto-chris_\\formdefinicoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\projeto-chris_\\formdefinicoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|solutionrelative:projeto-chris_\\formdefinicoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\projeto-chris_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{96CAE3E4-2DF1-4648-AD4F-37D323866F5A}|Projeto-Chris_\\Projeto-Chris_.csproj|solutionrelative:projeto-chris_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,24 +70,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Globais.cs",
               "DocumentMoniker": "C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\Projeto-Chris_\\Globais.cs",
               "RelativeDocumentMoniker": "Projeto-Chris_\\Globais.cs",
               "ToolTip": "C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\Projeto-Chris_\\Globais.cs",
               "RelativeToolTip": "Projeto-Chris_\\Globais.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-10T17:00:29.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ValidacaoCamposVaziosException.cs",
               "DocumentMoniker": "C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\Projeto-Chris_\\ValidacaoCamposVaziosException.cs",
               "RelativeDocumentMoniker": "Projeto-Chris_\\ValidacaoCamposVaziosException.cs",
@@ -95,12 +95,11 @@
               "RelativeToolTip": "Projeto-Chris_\\ValidacaoCamposVaziosException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-10T17:17:08.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-10T17:17:08.357Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ValidacaoEmailException.cs",
               "DocumentMoniker": "C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\Projeto-Chris_\\ValidacaoEmailException.cs",
               "RelativeDocumentMoniker": "Projeto-Chris_\\ValidacaoEmailException.cs",
@@ -108,12 +107,11 @@
               "RelativeToolTip": "Projeto-Chris_\\ValidacaoEmailException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-10T17:01:58.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-10T17:01:58.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "FormDefinicoes.cs",
               "DocumentMoniker": "C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\Projeto-Chris_\\FormDefinicoes.cs",
               "RelativeDocumentMoniker": "Projeto-Chris_\\FormDefinicoes.cs",
@@ -121,24 +119,22 @@
               "RelativeToolTip": "Projeto-Chris_\\FormDefinicoes.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-17T16:36:28.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-17T16:36:28.578Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "FormDefinicoes.cs [Design]",
               "DocumentMoniker": "C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\Projeto-Chris_\\FormDefinicoes.cs",
               "RelativeDocumentMoniker": "Projeto-Chris_\\FormDefinicoes.cs",
               "ToolTip": "C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\Projeto-Chris_\\FormDefinicoes.cs [Design]",
               "RelativeToolTip": "Projeto-Chris_\\FormDefinicoes.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-17T16:26:59.003Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-11-17T16:26:59.003Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "PagPrincipal.cs",
               "DocumentMoniker": "C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\Projeto-Chris_\\PagPrincipal.cs",
               "RelativeDocumentMoniker": "Projeto-Chris_\\PagPrincipal.cs",
@@ -151,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "PagPrincipal.cs [Design]",
               "DocumentMoniker": "C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\Projeto-Chris_\\PagPrincipal.cs",
               "RelativeDocumentMoniker": "Projeto-Chris_\\PagPrincipal.cs",
@@ -163,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "CriarConta.cs",
               "DocumentMoniker": "C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\Projeto-Chris_\\CriarConta.cs",
               "RelativeDocumentMoniker": "Projeto-Chris_\\CriarConta.cs",
@@ -171,24 +167,22 @@
               "RelativeToolTip": "Projeto-Chris_\\CriarConta.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAwwD4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-10T17:47:48.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-10T17:47:48.558Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "CriarConta.cs [Design]",
               "DocumentMoniker": "C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\Projeto-Chris_\\CriarConta.cs",
               "RelativeDocumentMoniker": "Projeto-Chris_\\CriarConta.cs",
               "ToolTip": "C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\Projeto-Chris_\\CriarConta.cs [Design]",
               "RelativeToolTip": "Projeto-Chris_\\CriarConta.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-10T17:45:45.51Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-11-10T17:45:45.51Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "FormContaIniciar.cs",
               "DocumentMoniker": "C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\Projeto-Chris_\\FormContaIniciar.cs",
               "RelativeDocumentMoniker": "Projeto-Chris_\\FormContaIniciar.cs",
@@ -201,19 +195,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "FormContaIniciar.cs [Design]",
               "DocumentMoniker": "C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\Projeto-Chris_\\FormContaIniciar.cs",
               "RelativeDocumentMoniker": "Projeto-Chris_\\FormContaIniciar.cs",
               "ToolTip": "C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\Projeto-Chris_\\FormContaIniciar.cs [Design]",
               "RelativeToolTip": "Projeto-Chris_\\FormContaIniciar.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T17:12:20.31Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-11-09T17:12:20.31Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "FormIniciarSessao.cs",
               "DocumentMoniker": "C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\Projeto-Chris_\\FormIniciarSessao.cs",
               "RelativeDocumentMoniker": "Projeto-Chris_\\FormIniciarSessao.cs",
@@ -226,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "FormIniciarSessao.cs [Design]",
               "DocumentMoniker": "C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\Projeto-Chris_\\FormIniciarSessao.cs",
               "RelativeDocumentMoniker": "Projeto-Chris_\\FormIniciarSessao.cs",
@@ -238,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\Projeto-Chris_\\Form1.cs",
               "RelativeDocumentMoniker": "Projeto-Chris_\\Form1.cs",
@@ -251,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\127355\\source\\repos\\Projeto-ChrisKauan\\Projeto-Chris_\\Form1.cs",
               "RelativeDocumentMoniker": "Projeto-Chris_\\Form1.cs",

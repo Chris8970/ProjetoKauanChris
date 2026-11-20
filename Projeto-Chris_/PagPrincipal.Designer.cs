@@ -58,7 +58,7 @@
             // button_horarios
             // 
             this.button_horarios.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button_horarios.Location = new System.Drawing.Point(12, 103);
+            this.button_horarios.Location = new System.Drawing.Point(12, 109);
             this.button_horarios.Name = "button_horarios";
             this.button_horarios.Size = new System.Drawing.Size(173, 46);
             this.button_horarios.TabIndex = 1;

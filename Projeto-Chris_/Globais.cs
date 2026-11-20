@@ -17,13 +17,13 @@ namespace Projeto_Chris_
         {
             public string email;
             public string palavraPasse;
-            
+
         }
         public static Utilizador[] listaUtilizadores = new Utilizador[50];
         public static int posicaovazia = 0;
         public static string emails = "";
         public static string passwords = "";
-   
+
         internal struct Alterações
         {
             public string apelido;
@@ -35,6 +35,6 @@ namespace Projeto_Chris_
         public static string apelidoss = "";
         public static string novoemail = "";
         public static string novapassword = "";
-      
+
     }
 }
