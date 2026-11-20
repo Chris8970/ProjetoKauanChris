@@ -64,6 +64,7 @@
             this.button_horarios.TabIndex = 1;
             this.button_horarios.Text = "Hórarios ";
             this.button_horarios.UseVisualStyleBackColor = false;
+            this.button_horarios.Click += new System.EventHandler(this.button_horarios_Click);
             // 
             // MenuPrincipal
             // 
@@ -82,6 +83,7 @@
             this.button_paragens.TabIndex = 5;
             this.button_paragens.Text = "Paragens";
             this.button_paragens.UseVisualStyleBackColor = true;
+            this.button_paragens.Click += new System.EventHandler(this.button_paragens_Click);
             // 
             // button_historico
             // 

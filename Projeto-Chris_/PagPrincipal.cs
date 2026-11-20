@@ -36,5 +36,18 @@ namespace Projeto_Chris_
             form_ir.ShowDialog();
             this.Show();
         }
+
+        private void button_horarios_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void button_paragens_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            FormParagens form_ir = new FormParagens();
+            form_ir.ShowDialog();
+            this.Show();
+        }
     }
 }

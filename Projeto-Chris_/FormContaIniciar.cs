@@ -16,7 +16,6 @@ namespace Projeto_Chris_
         {
             InitializeComponent();
         }
-
         private void button_entrar_Click(object sender, EventArgs e)
         {
             if( Globais.ver == false)
@@ -63,12 +62,8 @@ namespace Projeto_Chris_
                 {
                     MessageBox.Show("Informações incorretas ou conta não existente.");
                 }
-
-
             }
-
         }
-
         private void button_voltar_Click(object sender, EventArgs e)
         {
             this.Hide();

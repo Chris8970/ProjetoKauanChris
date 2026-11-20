@@ -82,12 +82,24 @@
     <Compile Include="FormPainelADM.Designer.cs">
       <DependentUpon>FormPainelADM.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormParagens.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormParagens.Designer.cs">
+      <DependentUpon>FormParagens.cs</DependentUpon>
+    </Compile>
     <Compile Include="Globais.cs" />
     <Compile Include="PagPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="PagPrincipal.Designer.cs">
       <DependentUpon>PagPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Paragens.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Paragens.Designer.cs">
+      <DependentUpon>Paragens.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -111,8 +123,14 @@
     <EmbeddedResource Include="FormPainelADM.resx">
       <DependentUpon>FormPainelADM.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormParagens.resx">
+      <DependentUpon>FormParagens.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="PagPrincipal.resx">
       <DependentUpon>PagPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Paragens.resx">
+      <DependentUpon>Paragens.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
